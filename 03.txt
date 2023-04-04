@@ -1,3 +1,4 @@
+# 説明を修正
 Finally, Explain the application of directed (acyclic graphs: ペーストの際補正) step by step and show references.
 Directed acyclic graphs (DAGs) are used in causal inference to represent causal relationships between variables. DAGs allow us to visually represent how causal effects flow from one variable to another, and to identify the presence of confounding variables that may distort the causal relationship between two variables.
 
