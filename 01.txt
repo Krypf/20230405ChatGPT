@@ -1,0 +1,48 @@
+Q.
+Showing references, explain step by step the definition of causality.
+
+A.
+The concept of causality is fundamental in science and philosophy, and has been the subject of much debate throughout history. There are different approaches to defining causality, but one commonly accepted definition is the following:
+
+"Causality is the relationship between an event (the cause) and a second event (the effect), where the second event is a consequence of the first."
+
+This definition suggests that causality involves a temporal ordering of events, where the cause precedes the effect, and a necessary connection between them, where the effect would not have occurred without the cause.
+
+Here are some of the key steps involved in understanding and defining causality:
+
+Temporal precedence: To establish causality, it is necessary to show that the cause precedes the effect in time. This means that the cause must come before the effect, so that the effect is not mistaken for the cause. For example, if a researcher wants to establish whether a particular drug causes a particular side effect, they need to show that the drug was administered before the side effect occurred.
+
+Association: Once temporal precedence is established, the next step is to show that the cause and effect are associated with each other. This means that there is a relationship between the cause and the effect, and that the effect is more likely to occur when the cause is present. For example, if a researcher wants to establish whether smoking causes lung cancer, they need to show that smokers are more likely to develop lung cancer than non-smokers.
+
+Plausibility: The third step involves showing that the relationship between the cause and effect is plausible. This means that there is a biological, physical, or theoretical mechanism that could explain how the cause leads to the effect. For example, if a researcher wants to establish whether a particular gene causes a particular disease, they need to show that the gene is involved in a biological process that could lead to the disease.
+
+Coherence: The fourth step involves showing that the relationship between the cause and effect is coherent with other established knowledge. This means that the relationship is consistent with other known facts and theories. For example, if a researcher wants to establish whether a particular environmental toxin causes a particular birth defect, they need to show that the relationship is consistent with what is known about the effects of toxins on development.
+
+Experimentation: Finally, the fifth step involves conducting experiments to test the hypothesis that the cause leads to the effect. This means that the researcher manipulates the cause and observes the effect, while controlling for other factors that might influence the outcome. For example, if a researcher wants to establish whether a particular educational intervention causes improved academic performance, they might randomly assign some students to receive the intervention and others to receive no intervention, and then compare their academic performance.
+
+In summary, the definition of causality involves a temporal ordering of events, an association between the cause and effect, a plausible mechanism, coherence with other knowledge, and experimentation to test the hypothesis.
+
+(DeepL)
+
+因果関係という概念は、科学や哲学において基本的なものであり、歴史上多くの議論がなされてきた。因果関係の定義にはさまざまなアプローチがありますが、一般的に受け入れられている定義の1つは次のようなものです：
+
+「因果関係とは、ある事象（原因）と第2の事象（結果）の間の関係であり、第2の事象は第1の事象の結果である」。
+
+この定義によると、因果関係には、原因が結果に先行するという事象の時間的順序と、原因がなければ結果は生じなかったという両者の間の必要な結びつきが含まれる。
+
+ここでは、因果関係を理解し、定義するための重要なステップを紹介します：
+
+時間的な優先順位： 因果関係を立証するためには、原因が時間的に効果に先行することを示す必要がある。つまり、結果が原因と間違われないように、原因が結果より前に出ていなければならない。例えば、ある薬が特定の副作用を引き起こすかどうかを研究者が立証したい場合、副作用が発生する前に薬が投与されたことを示す必要があります。
+
+関連付け： 時間的な優先順位が確立されたら、次のステップは、原因と結果が互いに関連していることを示すことです。これは、原因と結果の間に関係があり、原因が存在するときに結果が発生しやすいことを意味します。例えば、ある研究者が喫煙が肺がんを引き起こすかどうかを証明したい場合、喫煙者が非喫煙者よりも肺がんを発症しやすいことを示す必要があります。
+
+もっともらしいこと： 第3段階は、原因と結果の関係が妥当であることを示すことです。つまり、原因が結果につながることを説明できる生物学的、物理学的、理論的なメカニズムが存在することです。例えば、ある遺伝子が特定の病気を引き起こすかどうかを証明したい場合、その遺伝子が病気を引き起こす可能性のある生物学的プロセスに関与していることを示す必要があります。
+
+首尾一貫性： 第4段階は、原因と結果の関係が、他の確立された知識と首尾一貫していることを示すことです。つまり、その関係が他の既知の事実や理論に合致していることを意味します。例えば、ある環境毒が特定の先天性障害を引き起こすかどうかを明らかにしたい場合、その関係が、毒が発育に及ぼす影響について知られていることと一致していることを示す必要があります。
+
+実験： 最後に、第5段階として、「原因が結果につながる」という仮説を検証するための実験を行います。つまり、研究者は原因を操作し、結果に影響を与える可能性のある他の要因をコントロールしながら、その結果を観察するのです。例えば、ある教育的介入が学力向上をもたらすかどうかを検証したい場合、ある生徒を介入を受ける生徒と介入を受けない生徒にランダムに割り振り、その学力向上を比較することが考えられます。
+
+まとめると、因果関係の定義には、事象の時間的順序、原因と結果の関連性、もっともらしいメカニズム、他の知識との整合性、仮説を検証するための実験が含まれます。
+
+www.DeepL.com/Translator（無料版）で翻訳しました。
+
